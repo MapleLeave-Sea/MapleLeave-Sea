@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=MapleLeave-Sea&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeave-Sea&layout=compact&theme=tokyonight)
 
 <!--
 **MapleLeave-Sea/MapleLeave-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
