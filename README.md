@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MapleLeave's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MapleLeave-Sea&theme=xcode)]([https://github.com/MapleLeave-Sea)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=MapleLeave-Sea&theme=xcode" />
+</div>
+[![MapleLeave's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MapleLeave-Sea&theme=xcode)](https://github.com/MapleLeave-Sea)
