@@ -2,7 +2,6 @@
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MapleLeave-Sea&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeave-Sea&layout=compact&theme=tokyonight)
-
 <!--
 **MapleLeave-Sea/MapleLeave-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=MapleLeave-Sea&theme=xcode" />
-</div>
-[![MapleLeave's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MapleLeave-Sea&theme=xcode)](https://github.com/MapleLeave-Sea)
+![MapleLeave's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MapleLeave-Sea&theme=rogue)
